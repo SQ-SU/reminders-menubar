@@ -35,7 +35,7 @@
 
 ## Features
 
-* All interactions through the macOS menu bar
+* All interactions through the macOS menu bariiiiii
 * Keep everything in sync with Apple Reminders
 * Create new reminders in your chosen list
 * Mark reminders as completed / uncompleted
